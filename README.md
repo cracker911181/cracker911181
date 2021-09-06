@@ -4,3 +4,4 @@
 <br><br>
 <div align="center">
 <b><i><a href="https://github.com/cracker911181"/>CRACK YOUR WORLD,IF YOU CAN<br>Don't copy my style</i></b>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical)
