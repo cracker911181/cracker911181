@@ -2,7 +2,7 @@
 <h1> Hello Guys❣️<br></h1>
 <img title="Github" src="https://img.shields.io/badge/cracker911181-grey?style=for-the-badge&logo=github"/>
 <img title="FaceBook" src="https://img.shields.io/badge/FB-cracker911181-lightgrey?style=for-the-badge&logo=facebook">
-<img title="FaceBook" src="https://img.shields.io/badge/TL-MAO VIRUS-lightgrey?style=for-the-badge&logo=telegram">
+<img title="TeleGram" src="https://img.shields.io/badge/TL-cracker911181-lightgrey?style=for-the-badge&logo=telegram">
 
 </div>
 <h3><br> </h3>
