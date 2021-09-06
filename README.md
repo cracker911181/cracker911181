@@ -31,4 +31,4 @@
 <br>
 <a href="https://github.com/cracker911181"> ``` TeleGram ```</a>
 <br>
-<a href="https://t.me/cracker911181"> ``` TeleGram ```</>
+<a href="https://t.me/cracker911181"> ``` TeleGram ```</a>
