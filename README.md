@@ -27,8 +27,8 @@
 
 ### Contact Information:
 <div align="center">
-<a href="https://www.facebook.com/cracker911181"> ``` FaceBook ```
+<a href="https://www.facebook.com/cracker911181">  FaceBook </a>
 <br>
-<a href="https://github.com/cracker911181"> ``` TeleGram ```</a>
+<a href="https://github.com/cracker911181">  TeleGram </a>
 <br>
-<a href="https://t.me/cracker911181"> ``` TeleGram ```</a>
+<a href="https://t.me/cracker911181">  TeleGram </a>
