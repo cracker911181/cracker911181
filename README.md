@@ -12,5 +12,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mao2116&layout=compact)](https://github.com/mao2116)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cracker911181&layout=compact)](https://github.com/cracker911181)
 <br>
