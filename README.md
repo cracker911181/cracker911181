@@ -39,3 +39,9 @@
 
 <br>
 <br>
+<div align="center">
+
+🤩 Thank for using my Tools 🤩
+</div>
+
+
