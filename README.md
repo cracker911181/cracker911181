@@ -1,7 +1,10 @@
 <div align="center">
 <h1> Hello Guys❣️<br></h1>
 <br>
-<i> <pre> Welcome To My profile <br></pre><i>
+
+font face="WindSong" color="red" size="2"><br> Welcome To my profile</font>
+
+
 <a href="https://github.com/cracker911181"/>
 <img title="Github" src="https://img.shields.io/badge/cracker911181-grey?style=for-the-badge&logo=github"/></a>
 
