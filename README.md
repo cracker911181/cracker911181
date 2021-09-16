@@ -41,6 +41,8 @@
 <br>
 <div align="center">
 
+![Visitor Count](https://profile-counter.glitch.me/{1ucif3r}/count.svg)
+
 🤩 Thank for using my Tools 🤩
 </div>
 
