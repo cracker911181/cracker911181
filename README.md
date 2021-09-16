@@ -42,7 +42,7 @@
 <div align="center">
 <br>
 
-
+</div>
 # [Profile Visitor]
 
 
@@ -51,7 +51,8 @@
 
 
 <br>
-🤩 Thank for using my Tools 🤩
+<div align="center">
+🤩 Thank You 🤩
 </div>
 
 
