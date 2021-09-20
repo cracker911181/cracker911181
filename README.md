@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Hello Guys❣️<br></h1>
 <br>
-<i> <pre>Wlcome To My Profile</pre><br></i>
+<i><b> <pre>Wlcome To My Profile</pre><br></b></i>
 
 <br>
 <a href="https://github.com/cracker911181"/>
