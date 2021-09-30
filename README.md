@@ -48,13 +48,13 @@
 <br>
 
 </div>
-<a href="https://github.com/cracker911181/cracker_enc">
-<img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker_enc&theme=vision-friendly-dark">
+<a href="https://github.com/cracker911181/cracker-Tool">
+<img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker-Tool&theme=vision-friendly-dark">
 </a>
 
 
-<a href="https://github.com/cracker911181/Cracker-Tool">
-<img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker-Tool&theme=vision-friendly-dark">
+<a href="https://github.com/cracker911181/Cracker_enc">
+<img title="CRACKER_enc" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker_enc&theme=vision-friendly-dark">
 </a>
 
 
