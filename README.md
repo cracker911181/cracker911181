@@ -142,8 +142,12 @@
 
 <img src="https://profile-counter.glitch.me/cracker911181/count.svg" alt="hit counter" align="center">
 -->
+
+
 ![Visitor] (https://profile-counter.glitch.me/{cracker911181}/count.svg)
- <b>🤩 Thank You 🤩</b>
+
+
+ <br><b>🤩 Thank You 🤩</b>
 
 </div>
 
