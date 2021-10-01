@@ -141,7 +141,7 @@
 
 
 
-![Visitor](https://profile-counter.glitch.me/{cracker911181}/count.svg)
+<img src="https://profile-counter.glitch.me/{cracker911181}/count.svg"/>
 
 
  <br><b>🤩 Thank You 🤩</b>
