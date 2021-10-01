@@ -1,73 +1,148 @@
+
+
+<pre>
+
+==================HELLO PEOPLE======================|
+|					            |
+|        WELCOME TO MY GITHUB PROFILE               |
+|						    |
+|  _______________ABOUT MYSELF____________________  |
+| |					          | |
+| |-->	I'm <a href="https://www.facebook.com/cracker911181">CRACKER911181</a> 😎	     	          | |
+| |-->	I'm a Life Time Programmer🎉		  | |
+| |-->  I'm a Student☺️ and	                  | |
+| |-->  I'm a Bangladeshi Programmer & Pentester😙| |
+| |_______________________________________________| |
+| 						    |
+|  ______________________‼️‼️_______________________  |
+| |						  | |
+| |         CRACK YOUR WORLD, IF YOU CAN          | |
+| |	    Fuck Yourself to Hack Your World!	  | |
+| |_______________________________________________| |
+|  						    |
+|  _______________________________________________  |
+| |						  | |
+| |	             | @   @ |			  | |
+| |                   ———————			  | |
+| |                  |cracker|			  | |
+| |                   ———————			  | |
+| |              /\  |       |   /\\		  | |
+| |             // \——       ———/  \\		  | |
+| |        ____// crack your world  \\___	  | |
+| |						  | |
+| |     |==================================|	  | |
+| |     |        DON'T COPY MY STYLE       |	  | |
+| |     |==================================|	  | |
+| |_______________________________________________| |
+| 						    |
+|  _________________CONTACT INFO__________________  |
+| |						  | |
+| | FB       :       <a href="https://www.facebook.com/cracker911181">CLICK HERE</a>		          | |
+| | TELEGRAM :       <a href="https://t.me/cracker911181">CLICK HERE</a>		          | |
+| |_______________________________________________| |
+|						    |
+=====================================================
+</pre>
+
 <div align="center">
-<h1> ➿HELLO PEOPLE‼️<br></h1>
-<br>
-<i><b> <pre>Wlcome To My Profile</pre><br></b></i>
+<details>
+	<summary>
+
+
+
+> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗠𝗢𝗥𝗘 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡
+
+</summary>
+	<br>
+	<p align="center">
+	<img alt = "GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cracker911181">  
+	<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical">
+	<br><br>
+
+
+
+
+
+
+> 𝗚𝗜𝗧𝗛𝗨𝗕 𝗔𝗪𝗔𝗥𝗗𝗦
+
+![trophy](https://github-profile-trophy.vercel.app/?username=cracker911181&row=2&column=3)
+<br><br>
+
+<b>
+
+
+
+> TECNOLOGIES</b>
+
+
+
+
+
+
+
+<img src="https://img.icons8.com/color/30/kali-linux" height="30"/>![Windows](https://img.icons8.com/color/30/windows-10.png)![Linux](https://img.icons8.com/color/30/linux.png)<img src="https://i.top4top.io/p_2100q9x921.png" height="30px"/>
+<img src="https://i.top4top.io/p_2100381jm1.png" height="30px"/>
+ <br><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=green"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=green"/>
 
 <br>
-<a href="https://github.com/cracker911181"/>
-<img title="Github" src="https://img.shields.io/badge/cracker911181-grey?style=for-the-badge&logo=github"/></a>
 
-<a href="https://www.facebook.com/cracker911181">
-<img title="FaceBook" src="https://img.shields.io/badge/FB-cracker911181-lightgrey?style=for-the-badge&logo=facebook"></a>
-<a href="https://t.me/cracker911181"/>
-<img title="TeleGram" src="https://img.shields.io/badge/TL-cracker911181-lightgrey?style=for-the-badge&logo=telegram"></a>
 
-</div>
-<h3><br> </h3>
+
+<b>
+
+
+
+
+
+
+> LAUNGUAGES
+
+
+
+</b>
 <br>
-</div>
-<div align="center">
-<b><i><a href="https://github.com/cracker911181"/>CRACK YOUR WORLD,IF YOU CAN<br>Don't copy my style</a></i></b>
-</div>
+<!--
+![BASH](https://img.shields.io/badge/-BASH-black?style=flat-square&logo=BASH)
+![PYTHON](https://img.shields.io/badge/-PYTHON-black?style=flat-square&logo=PYTHON)
+-->
+
+<!--
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/shell%20-%2300599C.svg?&style=for-the-badge&logo=shellogoColor=white"/>
+<img src="https://img.shields.io/badge/c%20-%23239120.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+-->
+
+<img src="https://github.com/cracker911181/test/blob/e837a6350a31b1288772a9a00c6619c80bd733c3/python.png">
+<img src="https://b.top4top.io/p_21009ftxj1.png" height="30px"/>
+<img src="https://b.top4top.io/p_2100mi4ha1.png" height="30px"/>
 <br>
- <img src="https://h.top4top.io/p_2038wqcn11.jpg" height="160" </img>
+<img src="https://g.top4top.io/p_21009pdlh1.png" height="30px"/>
+<img src="https://j.top4top.io/p_2100jibvz1.png" height="30px"/>
 
 
 
+<br><br>
+
+<a href="https://github.com/cracker911181/Cracker-Tool"><img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=CRACKER-TOOL&theme=redical"></a>
+<a href="https://github.com/cracker911181/Cracker_enc"><img title="CRACKER_enc" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=CRACKER_enc&theme=redical"></a>
+<a href="https://github.com/cracker911181/Cracker_say"><img title="CRACKER_say" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=CRACKER_say&theme=redical"/></a>
+
+<br><br>
+<b>
+
+
+> PROFILE VISITORS
+
+</b>
 
 
 
+![VISITOR](https://profile-counter.glitch.me/{cracker911181}/count.svg)
 
+ <b>🤩 Thank You 🤩</b>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cracker911181&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cracker911181&layout=compact)](https://github.com/cracker911181)
-<br>
-
-### Contact Information:
-<div align="center">
-<a href="https://www.facebook.com/cracker911181">  <u>FaceBook</u> </a>
-<br>
-<a href="https://github.com/cracker911181">  GitHub </a>
-<br>
-<a href="https://t.me/cracker911181">  TeleGram </a>
-
-<br>
-<br>
-<div align="center">
-<br>
-
-</div>
-<a href="https://github.com/cracker911181/cracker-Tool">
-<img title="CRACKER-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker-Tool&theme=vision-friendly-dark">
-</a>
-
-
-<a href="https://github.com/cracker911181/Cracker_enc">
-<img title="CRACKER_enc" src="https://github-readme-stats.vercel.app/api/pin/?username=cracker911181&repo=Cracker_enc&theme=vision-friendly-dark">
-</a>
-
-
-# [Profile Visitor]
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{cracker911181}/count.svg)
-
-
-<br>
-<div align="center">
-🤩 Thank You 🤩
 </div>
 
 
