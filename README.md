@@ -114,7 +114,7 @@
 <img src="https://img.shields.io/badge/c%20-%23239120.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 -->
 
-<img src="https://github.com/cracker911181/test/blob/e837a6350a31b1288772a9a00c6619c80bd733c3/python.png">
+<img src="https://c.top4top.io/p_2102fowu61.png" height="30px" />
 <img src="https://b.top4top.io/p_21009ftxj1.png" height="30px"/>
 <img src="https://b.top4top.io/p_2100mi4ha1.png" height="30px"/>
 <br>
