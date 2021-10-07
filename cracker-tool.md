@@ -5,5 +5,7 @@
 
 </b>
 </div>
-<p>This is a python based termux tool created by cracker911181
+<p>This is A Python & Bash Programming Launguage  Based Termux-Tool Created By CRACKER911181. 
+This Tool Created For Hacking & Pentesting.
+if You Use This Tool To Evil Purpose, I Will Not Be Responsible For That.
 </p>
