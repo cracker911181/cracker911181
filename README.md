@@ -2,7 +2,7 @@
 
 <pre>
 
-|============<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="5px">HELLO PEOPLE<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="5px">====================|
+|============>HELLO PEOPLE<====================|
 |					            |
 |        WELCOME TO MY GITHUB PROFILE               |
 |						    |
