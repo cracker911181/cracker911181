@@ -2,7 +2,7 @@
 
 <pre>
 
-|==============>HELLO PEOPLE<======================|
+|===============>HELLO PEOPLE<======================|
 |					            |
 |        WELCOME TO MY GITHUB PROFILE               |
 |						    |
