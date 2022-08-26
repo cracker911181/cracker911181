@@ -4,7 +4,7 @@
 
 |===============>HELLO PEOPLE<======================|
 |					            |
-|        WELCOME TO MY GITHUB PROFILE               |
+|        [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=3000&multiline=false&lines=Welcome+to+my+profile)](https://git.io/typing-svg)               |
 |						    |
 |  _______________ABOUT MYSELF____________________  |
 | |					          | |
