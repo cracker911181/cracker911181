@@ -1,8 +1,8 @@
-https://readme-typing-svg.herokuapp.com/?color=F70000&center=true&duration=3000&multiline=false&lines=It%27s+me+cracker911181
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=3000&multiline=false&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 <pre>
 
-|===============>HELLO PEOPLE<======================|
+|================>HELLO PEOPLE<======================|
 |					            |
 |        					    |
 |  _______________ABOUT MYSELF____________________  |
