@@ -1,11 +1,10 @@
-
+https://readme-typing-svg.herokuapp.com/?color=F70000&center=true&duration=3000&multiline=false&lines=It%27s+me+cracker911181
 
 <pre>
 
 |===============>HELLO PEOPLE<======================|
 |					            |
-|        [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&duration=3000&multiline=false&lines=Welcome+to+my+profile)](https://git.io/typing-svg)               |
-|						    |
+|        					    |
 |  _______________ABOUT MYSELF____________________  |
 | |					          | |
 | |-->	I'm <a href="https://www.facebook.com/cracker911181">CRACKER911181</a> 😎	     	          | |
