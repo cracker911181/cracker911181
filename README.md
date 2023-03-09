@@ -33,9 +33,9 @@
 | |     |        DON'T COPY MY STYLE       |	  | |
 | |     |==================================|	  | |
 | |_______________________________________________| |
-| 
+|                                                   |
 |  _________________MY COMMUNITY__________________  |
-| | TELEGRAM :      <a href="https://t.me/Vision_0f_Coders">CLICK HERE</a>                      | |
+| | TELEGRAM :      <a href="https://t.me/Vision_0f_Coders">CLICK HERE</a>                    | |
 
 						    |
 |  _________________CONTACT INFO__________________  |
