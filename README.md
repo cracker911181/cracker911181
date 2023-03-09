@@ -33,7 +33,11 @@
 | |     |        DON'T COPY MY STYLE       |	  | |
 | |     |==================================|	  | |
 | |_______________________________________________| |
-| 						    |
+| 
+|  _________________MY COMMUNITY__________________  |
+| | TELEGRAM :      <a href="https://t.me/cracker911181">CLICK HERE</a>                          | e
+
+						    |
 |  _________________CONTACT INFO__________________  |
 | |						  | |
 | | FB       :       <a href="https://www.facebook.com/cracker911181">CLICK HERE</a>		          | |
