@@ -38,8 +38,9 @@
 | |                                               | |
 | | TELEGRAM :      <a href="https://t.me/Vision_0f_Coders">CLICK HERE</a>                    | |
 | | YOUTUBE  :      <a href="https://www.youtube.com/@vision-of-coders">CLICK HERE</a>                    | |
-
-						    |
+| | FACEBOOK :      <a href="https://facebook.com/vision.of.coders">CLICK HERE</a>                  | |
+| |_______________________________________________| |
+|						    |
 |  _________________CONTACT INFO__________________  |
 | |						  | |
 | | FB       :       <a href="https://www.facebook.com/cracker911181">CLICK HERE</a>		          | |
