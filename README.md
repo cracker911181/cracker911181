@@ -35,7 +35,7 @@
 | |_______________________________________________| |
 | 
 |  _________________MY COMMUNITY__________________  |
-| | TELEGRAM :      <a href="https://t.me/cracker911181">CLICK HERE</a>                          | e
+| | TELEGRAM :      <a href="https://t.me/cracker911181">CLICK HERE</a>                        | |
 
 						    |
 |  _________________CONTACT INFO__________________  |
