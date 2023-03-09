@@ -37,7 +37,7 @@
 |  _________________MY COMMUNITY__________________  |
 | |                                               | |
 | | TELEGRAM :      <a href="https://t.me/Vision_0f_Coders">CLICK HERE</a>                    | |
-| | YOUTUBE  :      <a href="https://www.youtube.com/@vision-of-coders">CLICK HERE</a>            | |
+| | YOUTUBE  :      <a href="https://www.youtube.com/@vision-of-coders">CLICK HERE</a>                | |
 
 						    |
 |  _________________CONTACT INFO__________________  |
